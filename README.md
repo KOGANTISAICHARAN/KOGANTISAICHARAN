@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Koganti Sai Charan!</h1>
 
-Hey, My Name is ```Koganti Sai Charan```, I'm a second year AI & ML student at Govt. Institute of Electronics. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Koganti Sai Charan```, I'm a Final Year AI & ML student at Govt. Institute of Electronics. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
@@ -8,7 +8,7 @@ Hey, My Name is ```Koganti Sai Charan```, I'm a second year AI & ML student at G
 </h1>
 
 # 💫 About Me:
-🚀 Exploring the World of Python, SQL, and Web Development<br>🔍 AI & ML Student | Linux enthusiast | Data Structures & Algorithms (DSA) Explorer<br>💡 Currently diving deep into Data Structures & Algorithms to refine my problem-solving abilities and coding skills. The journey of continuous learning is what fuels my passion!<br>💻 I enjoy building innovative, real-world projects, contributing to open-source communities, and experimenting with cutting-edge technologies to solve real-world challenges.<br>🌱 I'm passionate about AI, ML, and creating intuitive, open-access tools to help others unlock their potential in the world of technology.<br>📫 Reach out to me : kogantisaicharan@gmail.com<br>Let’s connect, collaborate, and bring creative ideas to life. Together, we can build something extraordinary!<br>
+Exploring the World of Python, SQL, and Web Development<br> AI & ML Student | Linux enthusiast | Data Structures & Algorithms (DSA) Explorer<br> Currently diving deep into Data Structures & Algorithms to refine my problem-solving abilities and coding skills. The journey of continuous learning is what fuels my passion!<br> I enjoy building innovative, real-world projects, contributing to open-source communities, and experimenting with cutting-edge technologies to solve real-world challenges.<br> I'm passionate about AI, ML, and creating intuitive, open-access tools to help others unlock their potential in the world of technology.<br> Reach out to me : kogantisaicharan@gmail.com<br>Let’s connect, collaborate, and bring creative ideas to life. Together, we can build something extraordinary!<br>
 
 
 
